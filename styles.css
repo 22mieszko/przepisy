@@ -1,7 +1,61 @@
 * {
     line-height: 1.2;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-body {
-    font-family: Arial, Helvetica, sans-serif;
+#main-title,
+#main-description {
+    text-align: center;
+    font-weight: 900;
+}
+
+#main-description {
+    margin-bottom: 0px;
+}
+
+#maklowicz {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 16px;
+    border-color: black;
+    border-style: solid;
+}
+
+.recipes-list {
+    text-align: center;
+}
+
+.dishes {
+    display: inline-block;
+    text-align: left;
+    width: 800px;
+}
+
+#header {
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 16px;
+    border-color: black;
+    border-style: solid;
+    margin-bottom: 70px;
+    margin-top: 40px;
+}
+
+.content {
+    text-align: center;
+}
+
+.bottom {
+    display: block;
+    text-align: center;
 }
