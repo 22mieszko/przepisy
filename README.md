@@ -7,4 +7,4 @@ Strona została zbudowana z użyciem podstawowej wiedzy HTML podczas nauki z [Th
 Wykorzystałem podstawowe tagi, które pozwoliły mi zbudować podstawową stronę wyświetlającą przepisy.
 Jestem w stanie pisać listy uporządkowane i nieuporządkowane, tworzyć interakcje z linkami i zamieszczać obrazki w środku strony. Znam też strukturę szablonu HTML.
 
-
+Użyłem CSS do polepszenia czytelności strony, skorzystałem głównie z właściwości <code>text-align</code> i poprawiłem obraz Makłowicza na głównej stronie.
