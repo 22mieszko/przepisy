@@ -34,6 +34,12 @@
     width: 800px;
 }
 
+.dishes.main {
+    display: inline-block;
+    text-align: left;
+    width: auto;
+}
+
 #header {
     text-align: center;
 }
